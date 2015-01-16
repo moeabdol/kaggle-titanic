@@ -1,0 +1,2 @@
+max_leaf_nodes,min_samples_leaf,n_estimators,max_features,criterion,min_samples_split
+16,2,7500,,gini,9
