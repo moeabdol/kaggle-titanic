@@ -1,16 +1,20 @@
+Introduction
+--
+My solution to the Kaggle Titanic competition. Achieving accuracy score of (0.77512).  Note: running the code may last hours, it took around 2 hours of execution on my macbook pro 2.3Ghz 8 cores machine.
+
 Instructions
-------------
+--
 $ python main.py
--------------------------------------------------------------------------------
+
 Dependencies
-------------
+--
 python 2.7.9
 pandas 0.15.2
 sklearn 0.15.2
 matplotlib 1.4.2
--------------------------------------------------------------------------------
+
 Project Structure
------------------
+--
 titanic/
 ├── README.txt                      This readme file describing the project.
 ├── data
@@ -47,4 +51,3 @@ titanic/
     ├── __init__.py
     ├── load.py                     Script handeling the loading of training and testing datasets.
     └── preprocess.py               Script handeling the preprocessing and cleaning of datasets.
--------------------------------------------------------------------------------
