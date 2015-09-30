@@ -1,6 +1,6 @@
 Introduction
 --
-My solution to the Kaggle Titanic competition. Achieving accuracy score of (0.77512).  Note: running the code may last hours, it took around 2 hours of execution on my macbook pro 2.3Ghz 8 cores machine.
+My solution to the Kaggle Titanic competition. Achieving accuracy score of 78% (0.77512).  Note: running the code may last hours. It took around 2 hours of execution time on an early 2014 MacBook Pro 2.3Ghz 8 core machine.
 
 Instructions
 --
