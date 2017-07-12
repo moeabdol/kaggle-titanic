@@ -48,7 +48,7 @@ roc_curve.png               Figure demonstrating the ROC curve.
 
 optimize.py                 Script handeling the optemization of the classifier's hyperparameters.
 
-learning_curves.py          Script hendeling the creation and ploting of learning curves.
+learning_curves.py          Script handeling the creation and ploting of learning curves.
 
 predict.py                  Script handeling the survival prediction of the testing set.
 
