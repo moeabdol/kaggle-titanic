@@ -46,7 +46,7 @@ learning_curves.png         Figure demonstrating the training and testing learni
 
 roc_curve.png               Figure demonstrating the ROC curve.
 
-optimize.py                 Script handeling the optemization of the classifier's hyperparameters.
+optimize.py                 Script handeling the optimization of the classifier's hyperparameters.
 
 learning_curves.py          Script handeling the creation and ploting of learning curves.
 
